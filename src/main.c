@@ -9,7 +9,7 @@ void other() {
 void input() {
     char buffer[10];
     gets(buffer);
-    printf("%s\n", buffer);
+    puts(buffer);
     fflush(stdout);
 }
 
